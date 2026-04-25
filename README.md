@@ -1,2 +1,0 @@
-# adi-negev
-index.html
